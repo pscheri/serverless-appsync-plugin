@@ -1253,10 +1253,12 @@ anymatch@^3.0.3, anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-appsync-schema-converter@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/appsync-schema-converter/-/appsync-schema-converter-1.1.2.tgz#06ef84db6809cd84ba413abc535399a47b0feb07"
-  integrity sha512-7qUzmeTzturrnObEIvTtqR5YTIUZmLMliSa1hVI3wPGHtt2smk98JxMIfWHlRx/SNlk3rqsOVXuHFdwpiuLC2Q==
+appsync-schema-converter@^1.1.6:
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/appsync-schema-converter/-/appsync-schema-converter-1.1.6.tgz#8b443632c54f3e4a503cf15e88d8fceee11ce3c7"
+  integrity sha512-ABy221BQN/6dPDphNSw2rB/lS+fVhlzL8ZRaEjh3mk6iOlOjuWExgj0UaK6IXa7tUFwf3WT731YA81Ogsf+XNQ==
+  dependencies:
+    commander "^8.3.0"
 
 archive-type@^4.0.0:
   version "4.0.0"
@@ -2060,6 +2062,11 @@ commander@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-5.1.0.tgz#46abbd1652f8e059bddaef99bbdcb2ad9cf179ae"
   integrity sha512-P0CysNDQ7rtVw4QIQtm+MRxV66vKFSvlsQvGYXZWR3qFU0jlMKHZZZgw8e+8DSah4UDKMqnknRDQz+xuQXQ/Zg==
+
+commander@^8.3.0:
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-8.3.0.tgz#4837ea1b2da67b9c616a67afbb0fafee567bca66"
+  integrity sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww==
 
 commander@~4.1.1:
   version "4.1.1"
