@@ -32,7 +32,7 @@
     "graphql-playground-middleware-koa": "^1.6.21",
     "koa": "^2.13.1",
     "lodash": "^4.17.20",
-    "moment": "^2.29.1",
+    "moment": "^2.29.3",
     "ramda": "^0.25.0"
   },
   "peerDependencies": {},
